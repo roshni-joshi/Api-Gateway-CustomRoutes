@@ -1,7 +1,7 @@
 # Api-Gateway-CustomRoutes
-Mapping requests to Microservices through custom routes defined in Api Gateway using Eureka Server
+Mapping requests to Microservices through custom routes defined in Api Gateway using Eureka Server.
 
-Description : No ports are configured for account and user microservices. Request mapping is managed at Api Gateway microservice using Eureka Server and routes defined in properties file.
+Description : Not configuring ports for account and user microservices. Request mapping is managed at Api Gateway microservice using Eureka Server and routes defined in properties file.
 
 
 Eureka Server : http://localhost:8010/
